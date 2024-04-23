@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Extensions\\SVM_DLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98107C-FB49-4AA0-BD8C-7430F4D2BA20}|SVM_DLL\\SVM_DLL.vcxproj|D:\\Extensions\\SVM_DLL\\SVM_DLL\\SVM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F98107C-FB49-4AA0-BD8C-7430F4D2BA20}|SVM_DLL\\SVM_DLL.vcxproj|solutionrelative:SVM_DLL\\SVM.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98107C-FB49-4AA0-BD8C-7430F4D2BA20}|SVM_DLL\\SVM_DLL.vcxproj|D:\\Extensions\\SVM_DLL\\SVM_DLL\\SVM.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F98107C-FB49-4AA0-BD8C-7430F4D2BA20}|SVM_DLL\\SVM_DLL.vcxproj|solutionrelative:SVM_DLL\\SVM.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SVM.c",
+              "DocumentMoniker": "D:\\Extensions\\SVM_DLL\\SVM_DLL\\SVM.c",
+              "RelativeDocumentMoniker": "SVM_DLL\\SVM.c",
+              "ToolTip": "D:\\Extensions\\SVM_DLL\\SVM_DLL\\SVM.c",
+              "RelativeToolTip": "SVM_DLL\\SVM.c",
+              "ViewState": "AQIAANIBAAAAAAAAAAAAANwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-17T22:37:22.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SVM.h",
+              "DocumentMoniker": "D:\\Extensions\\SVM_DLL\\SVM_DLL\\SVM.h",
+              "RelativeDocumentMoniker": "SVM_DLL\\SVM.h",
+              "ToolTip": "D:\\Extensions\\SVM_DLL\\SVM_DLL\\SVM.h",
+              "RelativeToolTip": "SVM_DLL\\SVM.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-17T22:37:51.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
